@@ -13,6 +13,6 @@
 
     ## Steps to make and commit a new version of your project
 1. `git add .` - add all files in this directory to a new project version ** This does not commit, it just stages them**
-
+2.  `git commit -m "commit message"` - this command makes a commit and gives it a message
     ## Vocab:
     - `commit` - to save a version, you can commit locally, push commit to git hub.
