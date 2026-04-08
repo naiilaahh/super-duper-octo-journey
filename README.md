@@ -11,8 +11,13 @@
     - This command links your local repo to the remote destination
     - Check this by running the command `git remote -v` shows a remote destination if you have one.
 
-    ## Steps to make and commit a new version of your project
+ ## Steps to make and commit a new version of your project
 1. `git add .` - add all files in this directory to a new project version ** This does not commit, it just stages them**
 2.  `git commit -m "commit message"` - this command makes a commit and gives it a message
-    ## Vocab:
+
+## Steps to PUSH commits to github.com
+
+1. `git push origin -u main` pushes all commits to github
+
+## Vocab:
     - `commit` - to save a version, you can commit locally, push commit to git hub.
