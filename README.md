@@ -12,8 +12,8 @@
     - Check this by running the command `git remote -v` shows a remote destination if you have one.
 
  ## Steps to make and commit a new version of your project
-1. `git add .` - add all files in this directory to a new project version ** This does not commit, it just stages them**
-2.  `git commit -m "commit message"` - this command makes a commit and gives it a message
+1. `git add .` - add all files in this directory to a new project version **This does not commit, it just stages them**
+2.  `**git commit -m "commit message"**` - this command makes a commit and gives it a message
 
 ## Steps to PUSH commits to github.com
 
